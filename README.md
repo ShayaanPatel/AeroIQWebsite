@@ -2,7 +2,7 @@
 
 AeroIQ is an AI-powered flight search assistant that helps users discover flights through natural language. Instead of filling long forms and filters, users can simply describe where they want to go, when they want to travel, and what kind of option they prefer.
 
-The project includes a premium landing page, a custom full-screen chat interface, Telegram bot access, and live webhook integration for AeroIQ responses.
+The project includes a premium landing page for the AeroIQ-Flight-AI-Agent, a custom full-screen chat interface, Telegram bot access, and live webhook integration for AeroIQ responses.
 
 ## Overview
 
