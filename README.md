@@ -69,8 +69,3 @@ AeroIQ/
 # 🌟 Vision
 
 AeroIQ aims to redefine how users search for flights by combining ✈️ travel discovery with 🧠 conversational AI. The goal is to create a seamless experience where searching for flights feels as natural as chatting with an intelligent travel assistant.
-
----
-
-```
-```
